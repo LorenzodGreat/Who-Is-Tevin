@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Who-Is-Tevin/static/css/main.073c9b0a.css",
-    "main.js": "/Who-Is-Tevin/static/js/main.61490002.js",
+    "main.css": "/Who-Is-Tevin/static/css/main.c87a4f4d.css",
+    "main.js": "/Who-Is-Tevin/static/js/main.686487cf.js",
     "static/js/787.1ed0c42c.chunk.js": "/Who-Is-Tevin/static/js/787.1ed0c42c.chunk.js",
     "static/media/logo.svg": "/Who-Is-Tevin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Who-Is-Tevin/index.html",
-    "main.073c9b0a.css.map": "/Who-Is-Tevin/static/css/main.073c9b0a.css.map",
-    "main.61490002.js.map": "/Who-Is-Tevin/static/js/main.61490002.js.map",
+    "main.c87a4f4d.css.map": "/Who-Is-Tevin/static/css/main.c87a4f4d.css.map",
+    "main.686487cf.js.map": "/Who-Is-Tevin/static/js/main.686487cf.js.map",
     "787.1ed0c42c.chunk.js.map": "/Who-Is-Tevin/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.61490002.js"
+    "static/css/main.c87a4f4d.css",
+    "static/js/main.686487cf.js"
   ]
 }
